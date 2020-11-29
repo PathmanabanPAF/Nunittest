@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="4" result="Passed" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.11.1.0" clr-version="4.0.30319.42000" start-time="2020-11-28 08:35:35Z" end-time="2020-11-28 08:35:55Z" duration="19.999049">
+  <command-line><![CDATA["C:\Program Files (x86)\NUnit.org\nunit-console\nunit3-console.exe"  NUnitTestProject1.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1006" name="F:\Test_vs\NUnitTestProject1\NUnitTestProject1\bin\Debug\NUnitTestProject1.dll" fullname="F:\Test_vs\NUnitTestProject1\NUnitTestProject1\bin\Debug\NUnitTestProject1.dll" runstate="Runnable" testcasecount="4" result="Passed" duration="18.470718" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="_PID" value="1648" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="Namespace" id="0-1007" name="NUnitTestProject1" fullname="NUnitTestProject1" runstate="Runnable" testcasecount="4" result="Passed" duration="18.461020" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestFixture" id="0-1000" name="NUnitTest1" fullname="NUnitTestProject1.NUnitTest1" classname="NUnitTestProject1.NUnitTest1" runstate="Runnable" testcasecount="2" result="Passed" duration="0.028019" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="0-1001" name="second_test" fullname="NUnitTestProject1.NUnitTest1.second_test" methodname="second_test" classname="NUnitTestProject1.NUnitTest1" runstate="Runnable" result="Passed" duration="0.012648" asserts="0" />
+        <test-case id="0-1002" name="second_test_test" fullname="NUnitTestProject1.NUnitTest1.second_test_test" methodname="second_test_test" classname="NUnitTestProject1.NUnitTest1" runstate="Runnable" result="Passed" duration="0.000294" asserts="0" />
+      </test-suite>
+      <test-suite type="TestFixture" id="0-1003" name="UnitTest1" fullname="NUnitTestProject1.UnitTest1" classname="NUnitTestProject1.UnitTest1" runstate="Runnable" testcasecount="2" result="Passed" duration="18.423446" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="0-1004" name="TestMethod1" fullname="NUnitTestProject1.UnitTest1.TestMethod1" methodname="TestMethod1" classname="NUnitTestProject1.UnitTest1" runstate="Runnable" result="Passed" duration="13.379331" asserts="0" />
+        <test-case id="0-1005" name="TestMethod2" fullname="NUnitTestProject1.UnitTest1.TestMethod2" methodname="TestMethod2" classname="NUnitTestProject1.UnitTest1" runstate="Runnable" result="Passed" duration="5.041513" asserts="0" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
